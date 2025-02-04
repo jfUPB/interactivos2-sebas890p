@@ -7,7 +7,14 @@ explorando cómo la aleatoriedad y los algoritmos pueden influir en la creación
 Otro logro importante ha sido la exploración de conceptos como el ruido Perlin y otros métodos de manipulación de datos para generar efectos visuales y sonoros más orgánicos.
 
 
+Dificultades: 
+
+tuve dificultades en el momento de usar bibliotecas externas en p5.js un ejemplo fue en el porototipo de texto el cual no consegui agregar tipografia
+
+
+
 Áreas de mejora:
+
 Para continuar mejorando, necesito profundizar en la integración de diseño generativo con otras tecnologías, como sensores físicos o inteligencia artificial, para crear experiencias más inmersivas y dinámicas.
 
 
