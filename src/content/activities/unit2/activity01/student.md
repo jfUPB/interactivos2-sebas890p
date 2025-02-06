@@ -27,6 +27,8 @@ Seria interesante pensar en algun metodo en el que el publico pueda escoger la c
 Circo:
 
 
+En un circo, el público puede interactuar de diferentes maneras. A veces solo observa y aplaude, pero también puede responder al presentador, participar en juegos con los payasos o incluso ser llamado al escenario en actos de magia. Además, la gente habla entre sí sobre el espectáculo, compra cosas a los vendedores y, en algunos circos modernos, hay tecnología que hace que las luces y sonidos reaccionen según las emociones del público por lo tanto puede ser activo y pasivo.
+
 
 
 
