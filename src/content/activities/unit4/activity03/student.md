@@ -25,4 +25,23 @@ interaccion entre usuarios siendo en tiempo real
 
 
 Escribe un tutorial que permita replicar la aplicación propuesta.
+
+
+
+
+
 Adiciona el código y enlaces necesarios para replicar la aplicación propuesta.
+
+enlace de la aplicacion para replicar:
+
+https://editor.p5js.org/dano/sketches/HRvsj7kDk
+
+
+
+
+
+
+
+
+
+
