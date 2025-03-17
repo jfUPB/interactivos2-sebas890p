@@ -19,7 +19,7 @@ faciales en un buen tiempo de fluides
 Replica varios ejemplos de p5LiveMedia que permitan entender sus posibilidades. Trata de seleccionar ejemplos para entender cómo se comparte audio, video, datos y el canvas.
 
 ```Js
-Ejemplo 1: Compartir video y audio
+// Ejemplo 1: Compartir video y audio
 let myVideo, otherVideo, p5l;
 
 function setup() {
