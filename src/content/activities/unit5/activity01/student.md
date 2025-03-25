@@ -10,6 +10,22 @@ reaccionando a los movimientos del público o a la música en vivo. Esta sinergi
 patrones climáticos o los datos en vivo de un espacio determinado.
 
 
+¿Cómo se relaciona con tu proyecto de curso?
+
+La relacion que tiene con mi proyecto de curso es que se utilizaran dispositivos externos para capturar datos en tiempo real, ademas pienso implementar en mi proyecto que recojan datos mediante interaccion digital y 
+microfonos para capturar sonido
+
+¿Qué aspectos te llaman la atención?
+
+
+El diseño de sistemas capaces de generar entornos de forma autonoma
+
+¿Qué aspectos te gustaría explorar en tu proyecto de curso?
+
+
+La forma de generar arte o visuales utilizando sonido externo recogiendolo mediante microfonos 
+
+
 
 
 
