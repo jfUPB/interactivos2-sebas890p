@@ -32,6 +32,7 @@ Visuales generativos en tiempo real: Usando tecnologías como WebGL y Three.js, 
 Sincronización inalámbrica: Los dispositivos conectados permiten que los efectos respondan en fracciones de segundo.
 
 
+![image](https://github.com/user-attachments/assets/dab90a85-a5fd-4a99-adbe-81b064c500de)
 
 
 
